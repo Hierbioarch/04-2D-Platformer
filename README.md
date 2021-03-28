@@ -11,8 +11,6 @@ Features:
 Two levels, roaming chicken guards, swooping owl guard which follows, user controlled player with  basic movement using w, a, s, d controls, coins for score, save, load and quit functions via menu, camera which follows player
 
 ## References
-Resources used:
-
 Code
 
 [Godot-Project-Template](https://github.com/BL-MSCH-C220-S21/Godot-Project-Template)
